@@ -10,7 +10,8 @@
 - 👔Check out my [LinkedIn](https://www.linkedin.com/in/chelseafishersoftwareengineer/)
 - 📫Email: [chelsearfisher@gmail.com](chelsearfisher@gmail.com)
 
-Education:
+**Education:** 
+
     - Certificate in Software Engineering, Java Backend from Kenzie Academy
 
 
