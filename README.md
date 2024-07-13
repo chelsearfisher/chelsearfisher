@@ -11,8 +11,7 @@
 - 📫Email: [chelsearfisher@gmail.com](chelsearfisher@gmail.com)
 
 **Education:** 
-
-    - Certificate in Software Engineering, Java Backend from Kenzie Academy
+- Certificate in Software Engineering, Java Backend from Kenzie Academy
 
 
 <!--
